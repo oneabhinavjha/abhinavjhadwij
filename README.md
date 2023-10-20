@@ -1,0 +1,5 @@
+- 👋 Hi, I’m Abhinav Jha
+- 🇮🇳 I’m from Bihar, India
+- 💻 I'm a Senior Software Engineer with 5+ years of experience
+- 🧰 My Work Tech Stack is primarily Java, Python, Go, Spark and AWS
+- 📫 Connect with me on [LinkedIn](https://www.linkedin.com/in/oneabhinavjha/)
